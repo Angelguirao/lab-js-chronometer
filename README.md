@@ -1,4 +1,6 @@
-(![image](https://github.com/Angelguirao/lab-js-chronometer/assets/44321245/b2f5b65a-1a5d-4e1f-b70b-3c7d175df616)
+<p align="center">
+  <img src="https://github.com/Angelguirao/lab-js-chronometer/assets/44321245/1d0f0d87-b270-46ad-bc2c-1ea652ec9b98" alt="image description">
+</p>
 
 # Chronometer LAB: Timing Precision at Your Fingertips ⏱️🎓
 
